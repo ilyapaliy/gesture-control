@@ -1,5 +1,7 @@
 # Gesture Computer Control
 
+[Статья на хабре](https://habr.com/ru/articles/884854/)
+
 This project allows you to control a computer using gestures recognized through the camera. To work with the project, Python 3 and prior installation of the required libraries are required.
 
 ## Setting up the Environment
@@ -86,3 +88,10 @@ python train.py
 ---
 
 If you have any questions or issues with using the project, refer to the "Issues" section of the repository on GitHub.
+
+## Stuff
+
+python 3.11.9
+pip install opencv-python
+pip install torch mediapipe numpy pyautogui
+pip install pynput
